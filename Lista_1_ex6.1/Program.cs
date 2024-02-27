@@ -8,6 +8,7 @@ namespace Lista_1_ex6._1
 {
     internal class Program
     {
+        // oi
         static void Main(string[] args)
         {
             //usando mod
